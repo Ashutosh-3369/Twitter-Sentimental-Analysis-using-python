@@ -7,7 +7,7 @@ def strip_punctuation(word):
             word = word.replace(char,'')
     return word
 
-with open('mycsv.csv','w') as file:
+with open('resulting_data.csv','w') as file:
         #Columns
         file.write("Number of Retweets, Number of Replies, Positive Score, Negative Score, Net Score") 
         
