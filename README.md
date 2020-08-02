@@ -1,3 +1,5 @@
+I built this sentiment classifier as a **Final Project** for the [Course 2: Python Files, Functions, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries?specialization=python-3-programming) of [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+
 ## Sentiment-Classifier
 
 Using some synthetic (fake, semi-randomly generated) twitter data in a csv file named **project_twitter_data.csv** which has the text of a tweet, the number of retweets of that tweet, and the number of replies to that tweet. We have also words that express positive sentiment and negative sentiment, in the files **positive_words.txt and negative_words.txt.**
